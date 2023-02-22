@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 4c48ec78559487040b369ef2fe903c93
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - HangerPrefab: {fileID: 5108279647857838876, guid: bfafd03328ff63c40a16dfe5bca7777a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
